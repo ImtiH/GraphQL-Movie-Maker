@@ -14,11 +14,9 @@
 
 ##### GraphQL with express-grapql
 
-### Environment variable:
+### Environment variable: create a dev.env file in config folder of backend and set mongodb connection string to MONGODBURL variable.
 
-create dev.env file in config folder and set mongodb connection string to MONGODBURL variable.
-
-## Start the project:
+## To start the project:
 
 ### frontend:
 
