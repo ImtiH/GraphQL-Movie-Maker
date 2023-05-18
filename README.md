@@ -1,8 +1,8 @@
-#A MERN Movie Maker App with GraphQL, ReactJS, MongoDB, Apollo
+# A MERN Movie Maker App with GraphQL, ReactJS, MongoDB, Apollo
 
-####Objective: Practice GraphQL by creating a simple MERN stack Movie-app.
+#### Objective: Practice GraphQL by creating a simple MERN stack Movie-app.
 
-###Technology used:
+### Technology used:
 ReactJs
 ExpressJS
 MongoDB
